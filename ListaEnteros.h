@@ -23,7 +23,13 @@ public:
     bool eliminaInicio();
     bool eliminaFinal();
     string toString();
-
+    //ejercicio 2
+    int obtenerPrimero() ;
+    int obtenerUltimo() ;
+    int sumarElementos() ;
+    double promedio() ;
+    int encontrarMaximo() ;
+    int encontrarMinimo() ;
 };
 
 
